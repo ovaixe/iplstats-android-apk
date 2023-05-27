@@ -21,7 +21,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
     WebView myWebView;
-    String URL = "http://20.244.36.76:3000";
+    String URL = "https://iplstats.vercel.app";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
